@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.5;
+  max-width: 42rem;
+  margin: 2rem auto;
+  padding: 0 1.25rem;
+  color: #1a1a1a;
+  background: #faf8f5;
+}
+h1 { font-size: 1.75rem; margin-bottom: 0.25rem; }
+h2 { font-size: 1.15rem; margin-top: 1.75rem; }
+.meta { color: #444; font-size: 0.95rem; margin-bottom: 1.5rem; }
+a { color: #0b5fff; }
